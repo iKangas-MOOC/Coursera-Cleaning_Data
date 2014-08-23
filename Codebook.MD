@@ -12,12 +12,12 @@
 10	tGravityAcc-std()-X		Time		Gravity		X		
 11	tGravityAcc-std()-Y		Time		Gravity		Y		
 12	tGravityAcc-std()-Z		Time		Gravity		Z		
-13	tBodyAccJerk-mean()-X		Time		Body		X		LA
-14	tBodyAccJerk-mean()-Y		Time		Body		Y		LA
-15	tBodyAccJerk-mean()-Z		Time		Body		Z		LA
-16	tBodyAccJerk-std()-X		Time		Body		X		LA
-17	tBodyAccJerk-std()-Y		Time		Body		Y		LA
-18	tBodyAccJerk-std()-Z		Time		Body		Z		LA
+13	tBodyAccJerk-mean()-X		Time		Body		X				LA
+14	tBodyAccJerk-mean()-Y		Time		Body		Y				LA
+15	tBodyAccJerk-mean()-Z		Time		Body		Z				LA
+16	tBodyAccJerk-std()-X		Time		Body		X				LA
+17	tBodyAccJerk-std()-Y		Time		Body		Y				LA
+18	tBodyAccJerk-std()-Z		Time		Body		Z				LA
 19	tBodyGyro-mean()-X		Time		Body		X		
 20	tBodyGyro-mean()-Y		Time		Body		Y		
 21	tBodyGyro-mean()-Z		Time		Body		Z		
